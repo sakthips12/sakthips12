@@ -65,7 +65,8 @@ I am passionate about turning complex data into actionable insights and building
 ---
 ## 📫 Get in Touch
 
-- **LinkedIn:** www.linkedin.com/in/sakthisathyap 
+- **LinkedIn:**   www.linkedin.com/in/sakthisathyap
+- **ReasearchGate:**  https://www.researchgate.net/profile/Sakthi-Sathya
 
 
 ---
