@@ -1,5 +1,5 @@
 
-# Hi there, I'm Sakthi Sathya 👋  
+## Hi there, I'm Sakthi Sathya 👋  
 Machine Learning Engineer | Data Scientist | Predictive Modeling Expert  
 
 ---
@@ -21,15 +21,20 @@ I am passionate about turning complex data into actionable insights and building
 **Tools & Platforms:** AWS Sagemaker, GCP, Tableau, MATLAB, Octave  
 **Other:** Feature Engineering, Data Preprocessing, Model Deployment, Real-time Monitoring  
 
-
+---
+## 🔬 Recent Focus Areas
+✨ Generative AI & Multi-Agent Architectures
+🧩 LLMOps, AI Observability, and Prompt Engineering
+📄 Document AI and PDF-based Knowledge Extraction
 
 ---
-🎤 I'm Open To:
+## 🎤 I'm Open To:
+
 🤝 Collaborations on real-world AI use cases
 
 🧪 Innovation partnerships & co-creating prototypes
 
-
+---
 ## 📫 Get in Touch
 
 - **LinkedIn:** www.linkedin.com/in/sakthisathyap 
