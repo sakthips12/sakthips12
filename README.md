@@ -23,8 +23,11 @@ I am passionate about turning complex data into actionable insights and building
 
 ---
 ## 🔬 Recent Focus Areas
+
 ✨ Generative AI & Multi-Agent Architectures
-🧩 LLMOps, AI Observability, and Prompt Engineering
+
+🧩 MLOps, AI Observability, and Prompt Engineering
+
 📄 Document AI and PDF-based Knowledge Extraction
 
 ---
