@@ -7,7 +7,7 @@ Machine Learning Engineer | Data Scientist | Predictive Modeling Expert
 ## 🌟 About Me
 I am an experienced Data Scientist with **11+ years of expertise in predictive modeling, neural networks, and deep learning**, primarily in the aerospace and logistics domains. I recently completed my **Master of Science in Analytics from Georgia Tech** to further deepen my knowledge and explore innovative ML techniques.  
 
-My professional journey combines **hands-on experience in model development, deployment, and data analysis** with strong research skills, having co-authored **18 peer-reviewed publications** in ML and data science.
+My professional journey combines **hands-on experience in model development, deployment, and data analysis** with strong research skills, having co-authored **17 peer-reviewed publications** in ML, data science and aerostructures.
 
 I am passionate about turning complex data into actionable insights and building scalable machine learning solutions that drive real-world impact.
 
