@@ -5,7 +5,7 @@ Machine Learning Engineer | Data Scientist | Predictive Modeling Expert
 ---
 
 ## 🌟 About Me
-I am an experienced Data Scientist with **11+ years of expertise in predictive modeling, neural networks, and deep learning**, primarily in the aerospace and logistics domains. I also have over 7 years of experiance in Design, Analysis and Testing of Composite Structures specifically for SARAS, LCA, and Nishant UAV. I recently completed my **Master of Science in Analytics from Georgia Tech** to further deepen my knowledge and explore innovative ML techniques.  
+I am an experienced Data Scientist with **11+ years of expertise in predictive modeling, neural networks, and deep learning**, primarily in the aerospace and logistics domains.  I recently completed my **Master of Science in Analytics from Georgia Tech** to further deepen my knowledge and explore innovative ML techniques.  I also have over 7 years of experiance in Design, Analysis and Testing of Composite Structures specifically for SARAS, LCA, and Nishant UAV.
 
 My professional journey combines **hands-on experience in model development, deployment, and data analysis** with strong research skills, having co-authored **17 peer-reviewed publications** in ML, data science and aerostructures.
 
